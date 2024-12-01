@@ -1,0 +1,3 @@
+export type SurveyControlType = 'radio' | 'text' | 'section';
+
+// ... rest of the Survey type definitions ...
